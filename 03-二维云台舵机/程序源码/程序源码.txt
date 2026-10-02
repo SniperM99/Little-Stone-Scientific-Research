@@ -1,0 +1,2 @@
+下位机(云台)程序：https://github.com/Liu-Curiousity/QGimbal
+上位机(视觉)程序：https://github.com/Liu-Curiousity/QGimbal-Vision

@@ -1,0 +1,104 @@
+{
+  "system": {
+    "COM": "COM4",
+    "baud": "115200",
+    "parity": "NONE",
+    "databits": "8",
+    "stopbits": "1"
+  },
+  "uart1": {
+    "baudrate": "115200",
+    "parity": "NONE",
+    "databits": "8",
+    "stopbits": "1",
+    "fc": "485",
+    "pack_tm": "50",
+    "pack_len": "1024",
+    "cache": "OFF"
+  },
+  "apn": {
+    "mode": "0",
+    "apn": "apn",
+    "user": "user",
+    "pwd": "pass",
+    "auth": "0"
+  },
+  "echo": "OFF",
+  "exat": {
+    "exat": "UART",
+    "pwd": "NET@"
+  },
+  "bootinfo": "Start",
+  "reboottime": "1440",
+  "gps": {
+    "en": "OFF",
+    "format": "0",
+    "frequency": "0",
+    "direction": "UART"
+  },
+  "poll": {
+    "en": "OFF",
+    "interval": "1000",
+    "period": "60",
+    "str": "010100000002BDCB"
+  },
+  "sock1a": {
+    "type": "TCPC",
+    "addr": "YOUR_SERVER_IP",
+    "port": "1"
+  },
+  "mqtt1": {
+    "mode": "STD",
+    "version": "3.1.1",
+    "clean": "ON",
+    "keepalive": "120",
+    "id": "YOUR_DEVICE_IMEI",
+    "user": "user",
+    "password": "pass",
+    "suben": "ON",
+    "sub": "sub_topic",
+    "subqos": "0",
+    "puben": "ON",
+    "pub": "pub_topic",
+    "pubqos": "0",
+    "pubretain": "OFF",
+    "willen": "OFF",
+    "willtopic": "will_top",
+    "willqos": "0",
+    "willmessage": "will_msg",
+    "willretain": "OFF",
+    "ip": "192.168.1.168",
+    "port": "8010"
+  },
+  "sms": {
+    "phone": "123456789",
+    "filter": "ON"
+  },
+  "http1": {
+    "http1": "GET",
+    "tm_out": "6",
+    "head": "Connection: close|Accept: */*",
+    "filter": "ON"
+  },
+  "sock1b": {
+    "type": "OFF"
+  },
+  "sock1c": {
+    "type": "OFF"
+  },
+  "sock1d": {
+    "type": "OFF"
+  },
+  "heart1": {
+    "dir": "NET",
+    "tm_val": "5",
+    "fmt": "ASCII",
+    "data": "YOUR_DEVICE_IMEI"
+  },
+  "regist1": {
+    "method": "OFF",
+    "fmt": "ASCII",
+    "data": "YOUR_DEVICE_IMEI",
+    "type": "CUS"
+  }
+}
