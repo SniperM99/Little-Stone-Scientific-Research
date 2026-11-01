@@ -1,0 +1,308 @@
+[
+  {
+    "key": "0:place",
+    "index": 0,
+    "action": "place",
+    "text": "关心木板安装完成，第一段桥面修好了。再收集一块木板，就能修好木桥啦！",
+    "file": "outputs/友爱奇旅-互动解说/01-place.mp3",
+    "duration": 7.848,
+    "sha256": "f16c3577a0002acf3d13b8c42719d502a4846c4c1ec98e92637bd7a15321571d"
+  },
+  {
+    "key": "1:place",
+    "index": 1,
+    "action": "place",
+    "text": "陪伴木板安装完成，木桥已经修好了。点击一起过桥，我们继续出发吧！",
+    "file": "outputs/友爱奇旅-互动解说/02-place.mp3",
+    "duration": 7.536,
+    "sha256": "cb64f3a2da67174583e4fab167cb72e0beea08ffaab503628d6a657a3e7df807"
+  },
+  {
+    "key": "1:cross",
+    "index": 1,
+    "action": "cross",
+    "text": "木桥全部修好啦！小梅和科迪平安过河，下一站，积木森林！",
+    "file": "outputs/友爱奇旅-互动解说/02-cross.mp3",
+    "duration": 6.96,
+    "sha256": "ee07af59e0f2fdc6b27e45e91f1025a21e7d3a3932035fa94730112d897f507c"
+  },
+  {
+    "key": "2:place",
+    "index": 2,
+    "action": "place",
+    "text": "飞机机身积木安装完成，飞机越来越完整了。全班一起努力，继续收集下一个部件吧！",
+    "file": "outputs/友爱奇旅-互动解说/03-place.mp3",
+    "duration": 8.712,
+    "sha256": "8d9e761ccbed415bd44f19768e714e5c8d900110de2c11176d3fac9dc371bf57"
+  },
+  {
+    "key": "3:place",
+    "index": 3,
+    "action": "place",
+    "text": "左机翼积木安装完成，飞机越来越完整了。全班一起努力，继续收集下一个部件吧！",
+    "file": "outputs/友爱奇旅-互动解说/04-place.mp3",
+    "duration": 8.4,
+    "sha256": "793d734bba9620faa5cdd7d7d5871ac86aa935c8e2b8628e3cc6bc23c39c9bf9"
+  },
+  {
+    "key": "4:place",
+    "index": 4,
+    "action": "place",
+    "text": "右机翼积木安装完成，飞机越来越完整了。全班一起努力，继续收集下一个部件吧！",
+    "file": "outputs/友爱奇旅-互动解说/05-place.mp3",
+    "duration": 8.376,
+    "sha256": "16b4b00d475e3d171ddcd6ce09244841351f694126cf9d57ba39860b69e4b011"
+  },
+  {
+    "key": "5:place",
+    "index": 5,
+    "action": "place",
+    "text": "起落架积木安装完成，飞机越来越完整了。全班一起努力，继续收集下一个部件吧！",
+    "file": "outputs/友爱奇旅-互动解说/06-place.mp3",
+    "duration": 8.424,
+    "sha256": "2dd2636487a11e9a96070be676eb023d34b932075013d0c2bef9aea241df9f89"
+  },
+  {
+    "key": "6:place",
+    "index": 6,
+    "action": "place",
+    "text": "尾翼积木安装完成，飞机越来越完整了。全班一起努力，继续收集下一个部件吧！",
+    "file": "outputs/友爱奇旅-互动解说/07-place.mp3",
+    "duration": 8.16,
+    "sha256": "74786eff3c029b776694413aa5f899ccd255dd1c33a7304dedf9b8767f7c2a72"
+  },
+  {
+    "key": "7:place",
+    "index": 7,
+    "action": "place",
+    "text": "螺旋桨积木安装完成，六个部件全部集齐。点击起飞，飞向纽扣森林吧！",
+    "file": "outputs/友爱奇旅-互动解说/08-place.mp3",
+    "duration": 8.16,
+    "sha256": "49fb06f5a97c879c7b51058622eeffb301488172a81de0956b48eaba550ebacb"
+  },
+  {
+    "key": "7:fly",
+    "index": 7,
+    "action": "fly",
+    "text": "螺旋桨转起来啦！积木飞机起飞了，小梅和科迪一起飞向纽扣森林！",
+    "file": "outputs/友爱奇旅-互动解说/08-fly.mp3",
+    "duration": 7.704,
+    "sha256": "9dd08dbff3549bae4e7a0b904d66e7e2f70fb0dec771e71839bcafe3b644e3c3"
+  },
+  {
+    "key": "8:guard:0",
+    "index": 8,
+    "action": "guard",
+    "text": "左侧的护盾举起来了，挡住了偷袭。再守住右侧，伙伴们就更安全啦！",
+    "file": "outputs/友爱奇旅-互动解说/09-guard-1.mp3",
+    "duration": 7.44,
+    "sha256": "1056c89e9fba50b7aa31d75f4c8d0848084f29e72c28c251385ebdbc0a1c0530"
+  },
+  {
+    "key": "8:guard:1",
+    "index": 8,
+    "action": "guard",
+    "text": "右侧的护盾举起来了，挡住了偷袭。再守住左侧，伙伴们就更安全啦！",
+    "file": "outputs/友爱奇旅-互动解说/09-guard-2.mp3",
+    "duration": 7.392,
+    "sha256": "4f40729dd6aaa9daf0f11bd689e4656b999832bd467b4bbed8af25aec4c8c688"
+  },
+  {
+    "key": "8:guard-done",
+    "index": 8,
+    "action": "guard-done",
+    "text": "两侧的护盾都举起来了！守护盾挡住了偷袭，村口的伙伴们安全啦！",
+    "file": "outputs/友爱奇旅-互动解说/09-guard-done.mp3",
+    "duration": 7.176,
+    "sha256": "a90dafc110e4722da060563be96a38ab03d6f8c4e5d2f5caf35bacba5678e429"
+  },
+  {
+    "key": "9:light:0",
+    "index": 9,
+    "action": "light",
+    "text": "第一条小路被星光照亮了。继续点亮小路，让伙伴安全通过吧！",
+    "file": "outputs/友爱奇旅-互动解说/10-light-1.mp3",
+    "duration": 6.768,
+    "sha256": "1762ddb55b171a76f1c8a36be22d3236ec28247d0c99c4185273738a6d5ac63b"
+  },
+  {
+    "key": "9:light:1",
+    "index": 9,
+    "action": "light",
+    "text": "第二条小路被星光照亮了。继续点亮小路，让伙伴安全通过吧！",
+    "file": "outputs/友爱奇旅-互动解说/10-light-2.mp3",
+    "duration": 6.792,
+    "sha256": "c123e7cbcf5ebf98e4db444cbfed6fd48c7c1df9aec3ebb71fbb1413519cfb9d"
+  },
+  {
+    "key": "9:light:2",
+    "index": 9,
+    "action": "light",
+    "text": "第三条小路被星光照亮了。三条小路都亮起来啦，狼族退远了，大家可以安全前往绳桥峡谷！",
+    "file": "outputs/友爱奇旅-互动解说/10-light-3.mp3",
+    "duration": 9.984,
+    "sha256": "52ee3bf566bb611b6973bcbdbafded4a36e38d4bc8a18605bc5e0017deae567c"
+  },
+  {
+    "key": "10:charge",
+    "index": 10,
+    "action": "charge",
+    "text": "第一格电力接通啦，缆车开始苏醒。再加两格电力，我们就能出发了！",
+    "file": "outputs/友爱奇旅-互动解说/11-charge.mp3",
+    "duration": 7.416,
+    "sha256": "dca0e0f8a009bc696f726fecd94c786206336621f40f97deeaa1ee5114ef4038"
+  },
+  {
+    "key": "11:crank:0",
+    "index": 11,
+    "action": "crank",
+    "text": "转动第一圈，发电把手动起来了。再转两圈，继续积累电力！",
+    "file": "outputs/友爱奇旅-互动解说/12-crank-1.mp3",
+    "duration": 6.864,
+    "sha256": "b2172d418250408a3a70f3d58e94e86d8dcdde1cb8199046b12054108b78dc60"
+  },
+  {
+    "key": "11:crank:1",
+    "index": 11,
+    "action": "crank",
+    "text": "转动第二圈，电力正在增加。再转一圈，就能充好第二格电啦！",
+    "file": "outputs/友爱奇旅-互动解说/12-crank-2.mp3",
+    "duration": 6.912,
+    "sha256": "32a78472b8c3c9ea562dacecfe6659d120b2c6ada07f306997baec04953b1a23"
+  },
+  {
+    "key": "11:crank:2",
+    "index": 11,
+    "action": "crank",
+    "text": "第二格电力充好啦！缆车还差最后一格电，我们一起加油！",
+    "file": "outputs/友爱奇旅-互动解说/12-crank-3.mp3",
+    "duration": 6.312,
+    "sha256": "49efff55944fc6b6450de65213dcedc7033a024003def38ceccc231cd658e931"
+  },
+  {
+    "key": "12:charge",
+    "index": 12,
+    "action": "charge",
+    "text": "第三格电力充好啦！缆车已经充满电，点击乘坐缆车，我们出发去山顶吧！",
+    "file": "outputs/友爱奇旅-互动解说/13-charge.mp3",
+    "duration": 7.944,
+    "sha256": "1149bc26cc16f183c60cf3c5b9e6ea16ce9b05c91cbc43d72ed08ea22d163fea"
+  },
+  {
+    "key": "12:ride",
+    "index": 12,
+    "action": "ride",
+    "text": "缆车出发啦！小梅和科迪一起越过峡谷，山顶的星空小屋越来越近了。",
+    "file": "outputs/友爱奇旅-互动解说/13-ride.mp3",
+    "duration": 7.896,
+    "sha256": "5037eb4493b9efcb1c85ecaa404aec0322e3870a0b7540b2559d262066bb98fb"
+  },
+  {
+    "key": "12:arrive",
+    "index": 12,
+    "action": "arrive",
+    "text": "叮咚，到站啦！缆车平安抵达山顶，现在，我们一起建造观星树屋吧！",
+    "file": "outputs/友爱奇旅-互动解说/13-arrive.mp3",
+    "duration": 7.728,
+    "sha256": "bc2b52481100c406f4430b932848fa432157953c2ead9a94851d9ed557a90dd8"
+  },
+  {
+    "key": "13:floor:0",
+    "index": 13,
+    "action": "floor",
+    "text": "第一块地板安装完成。树屋越来越稳固了，我们继续搭下一块吧！",
+    "file": "outputs/友爱奇旅-互动解说/14-floor-1.mp3",
+    "duration": 6.696,
+    "sha256": "8b1f5da5fd6c7ebb3ca59713cae263f204b7d96e42b01bfea1b6ccacfef3ab57"
+  },
+  {
+    "key": "13:floor:1",
+    "index": 13,
+    "action": "floor",
+    "text": "第二块地板安装完成。树屋越来越稳固了，我们继续搭下一块吧！",
+    "file": "outputs/友爱奇旅-互动解说/14-floor-2.mp3",
+    "duration": 6.696,
+    "sha256": "be0ed246265a31f52df47b2a75175b27cc2acbfc91da5dde1b61ea0b9d7984c3"
+  },
+  {
+    "key": "13:floor:2",
+    "index": 13,
+    "action": "floor",
+    "text": "第三块地板安装完成。三块地板都搭好了，接下来安装屋顶和星灯吧！",
+    "file": "outputs/友爱奇旅-互动解说/14-floor-3.mp3",
+    "duration": 7.632,
+    "sha256": "136d4234c240bc8b8be91e88910b9f3e58ef429cc5feff293d42de92ce222a93"
+  },
+  {
+    "key": "14:roof",
+    "index": 14,
+    "action": "roof",
+    "text": "屋顶安装完成，星灯也亮起来了。树屋建好啦，点击一起看星星吧！",
+    "file": "outputs/友爱奇旅-互动解说/15-roof.mp3",
+    "duration": 7.488,
+    "sha256": "1c579859aaa641c4452a51e213b06a3758ad1c5da2aa68147a4e6a2c2b26211e"
+  },
+  {
+    "key": "14:stars",
+    "index": 14,
+    "action": "stars",
+    "text": "抬头看，星空好美呀！请依次点亮关心、尊重、勇气、互助和友爱，让五颗星记住我们的约定。",
+    "file": "outputs/友爱奇旅-互动解说/15-stars.mp3",
+    "duration": 10.656,
+    "sha256": "312e8ffe3a1757d59f2cfad8f6d6ce0d50145c1b4bb56ba95b6d0896ce3977d1"
+  },
+  {
+    "key": "14:star:0",
+    "index": 14,
+    "action": "star",
+    "text": "关心之星亮起来啦！看到同学难过，主动关心他。",
+    "file": "outputs/友爱奇旅-互动解说/15-star-1.mp3",
+    "duration": 5.736,
+    "sha256": "cd65033586a8a5cfc8908bed6609735dcd7bace5dd542b87cfb48a0d9825afe5"
+  },
+  {
+    "key": "14:star:1",
+    "index": 14,
+    "action": "star",
+    "text": "尊重之星亮起来啦！叫同学的名字，尊重每一位伙伴。",
+    "file": "outputs/友爱奇旅-互动解说/15-star-2.mp3",
+    "duration": 5.976,
+    "sha256": "0b15e935a28caf5b2a7dbd769f118c22e57ac7d2f22befe16685dc3c79cde6d2"
+  },
+  {
+    "key": "14:star:2",
+    "index": 14,
+    "action": "star",
+    "text": "勇气之星亮起来啦！遇到欺负，勇敢说不，及时求助。",
+    "file": "outputs/友爱奇旅-互动解说/15-star-3.mp3",
+    "duration": 6.384,
+    "sha256": "d999a7d5b7d1afe10ff715e73ac066810df1a9da9da3ee5056e08926efa98c41"
+  },
+  {
+    "key": "14:star:3",
+    "index": 14,
+    "action": "star",
+    "text": "互助之星亮起来啦！安全地帮助同学，一起面对困难。",
+    "file": "outputs/友爱奇旅-互动解说/15-star-4.mp3",
+    "duration": 6.144,
+    "sha256": "e7b58771cf606f8d0792ab5dbaf63f2b8fc41432da3a94bf72f4489719e4ce63"
+  },
+  {
+    "key": "14:star:4",
+    "index": 14,
+    "action": "star",
+    "text": "友爱之星亮起来啦！让我们的班级，像家一样温暖。",
+    "file": "outputs/友爱奇旅-互动解说/15-star-5.mp3",
+    "duration": 5.64,
+    "sha256": "ef9c73adc395cee0373a7a0a893571c00ca75a7063f03cadb2d6410832739127"
+  },
+  {
+    "key": "14:finish",
+    "index": 14,
+    "action": "finish",
+    "text": "五颗友爱之星全部点亮，树屋也建好了！小梅、科迪和全班一起欣赏星空。冒险成功，一年三班，像个大家！",
+    "file": "outputs/友爱奇旅-互动解说/15-finish.mp3",
+    "duration": 12.096,
+    "sha256": "7faf540926415124ecebbd1d40c01554c05b0e4d94abc33dde5c3fbe19a9ac16"
+  }
+]
