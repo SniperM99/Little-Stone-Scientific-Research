@@ -31,6 +31,22 @@ __pycache__/
 # ----- WHEELTEC 厂商资料包（含多个 >100MB 视频/固件，GitHub 拒绝）-----
 11-机械坦克车和树莓派/
 
+# ----- 17-友爱奇旅游戏项目（原规则由该子目录 .gitignore 上提，统一由根仓库管理）-----
+17-friendship-quest-main/work/node_modules/
+17-friendship-quest-main/work/voice-venv/
+17-friendship-quest-main/work/game-audio/
+17-friendship-quest-main/work/game-before-neural-voice.html
+17-friendship-quest-main/work/友爱奇旅-文案修改前.html
+17-friendship-quest-main/work/animated-before-rolefix.html
+17-friendship-quest-main/work/picture-before-adventure.html
+17-friendship-quest-main/outputs/友爱奇旅-语音/
+.env
+.env.*
+
+# ----- 通用开发环境（原 17 子目录规则的一部分，上提为全局）-----
+node_modules/
+.DS_Store
+
 # ============================================================
 # 备注：
 # 1) .step/.stp 模型未排除（如 03 的云台装配体.step 66MB，可传但会警告，
