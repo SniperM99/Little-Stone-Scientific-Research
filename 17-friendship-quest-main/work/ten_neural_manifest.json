@@ -1,0 +1,452 @@
+[
+  {
+    "kind": "intro",
+    "index": 0,
+    "title": "游戏介绍",
+    "text": "同学们好，欢迎来到友爱奇旅！小梅和科迪邀请全班一起修木桥、拼积木飞机、守护纽扣森林、启动缆车，最后建树屋、看星星。五章，每章两关，一共十关。我们要学会不欺负人、理解同学，遇到困难会求助，也能安全地帮助别人。想回答先举手，别人说话认真听。揭晓答案后，由主持人判断。答错不扣星，可以再想一想。答对后，点击一次完成互动，再继续冒险。准备好了吗？我们出发！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/intro-00-796dbbf2766b.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 0,
+    "title": "藏起来的铅笔",
+    "text": "第1关，藏起来的铅笔。发生了什么？有人故意藏起同学的铅笔。同学找不到，急得快哭了。你走到他身边。 请你回答。你会对他说一句什么话？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-00-b2fef48c2430.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 0,
+    "title": "只听问题",
+    "text": "你会对他说一句什么话？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-00-9e57ba73a4f8.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 0,
+    "title": "参考答案",
+    "text": "参考答案。别着急，我陪着你。 也可以说：我陪你去找老师。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-00-a3b3324905d8.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 0,
+    "title": "互动完成",
+    "text": "第一块木板装好了！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-00-c07638754e2d.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 1,
+    "title": "是不小心，还是故意？",
+    "text": "第2关，是不小心，还是故意？。发生了什么？一位同学走路时，不小心碰到了别人。他马上停下来，说了对不起。 请你回答。他是不小心碰到，还是故意推人？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-01-fa68fbdc651f.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 1,
+    "title": "只听问题",
+    "text": "他是不小心碰到，还是故意推人？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-01-c7a0552c34f8.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 1,
+    "title": "参考答案",
+    "text": "参考答案。是不小心碰到的。 如果有人受伤了，还是要告诉老师。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-01-7bd909a5c6b3.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 1,
+    "title": "互动完成",
+    "text": "木桥修好了，小梅和科迪平安过河！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-01-9364fd511d7c.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 2,
+    "title": "名字要好好叫",
+    "text": "第3关，名字要好好叫。发生了什么？有人叫同学难听的外号。同学说不喜欢，他还是一直叫。 请你回答。你要跟着叫这个外号吗？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-02-0bb9a0794e99.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 2,
+    "title": "只听问题",
+    "text": "你要跟着叫这个外号吗？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-02-c3169bcc5aa5.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 2,
+    "title": "参考答案",
+    "text": "参考答案。不要。要好好叫同学的名字。 如果他一直这样叫，可以请老师帮忙。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-02-f47a27c84dbc.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 2,
+    "title": "互动完成",
+    "text": "机身和双翼安装完成！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-02-c68533dda740.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 3,
+    "title": "一起玩吧",
+    "text": "第4关，一起玩吧。发生了什么？大家都在玩游戏。一位同学被挡在外面，一个人站着，很想一起玩。 请你回答。你会怎样邀请他一起玩？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-03-fd4d896c1486.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 3,
+    "title": "只听问题",
+    "text": "你会怎样邀请他一起玩？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-03-9d522742bde5.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 3,
+    "title": "参考答案",
+    "text": "参考答案。来和我们一起玩吧！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-03-0020644e3a9b.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 3,
+    "title": "互动完成",
+    "text": "六个部件拼好了，飞机飞向纽扣森林！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-03-5bf2f2f00f7f.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 4,
+    "title": "先离开危险",
+    "text": "第5关，先离开危险。发生了什么？有人故意用力推你。你很害怕，老师就在附近。 请你回答。你现在应该先做什么？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-04-8155d0f9270e.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 4,
+    "title": "只听问题",
+    "text": "你现在应该先做什么？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-04-d04fc3a1eef3.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 4,
+    "title": "参考答案",
+    "text": "参考答案。先离开他，去找老师。 走不开时，大声喊：老师，帮帮我！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-04-fce9e03e8f4d.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 4,
+    "title": "互动完成",
+    "text": "两侧护盾展开，伙伴们安全了！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-04-8a206d3abf54.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 5,
+    "title": "可以告诉老师",
+    "text": "第6关，可以告诉老师。发生了什么？有人欺负你，还说：不许告诉老师！你很害怕。 请你回答。你还能把这件事告诉老师吗？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-05-e0ed106413f5.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 5,
+    "title": "只听问题",
+    "text": "你还能把这件事告诉老师吗？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-05-fafdf8409c69.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 5,
+    "title": "参考答案",
+    "text": "参考答案。能！要把这件事告诉老师。 也可以告诉爸爸妈妈。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-05-01d103f1f3ce.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 5,
+    "title": "互动完成",
+    "text": "三条小路全部亮起，大家安全通过森林！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-05-55aa693c916b.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 6,
+    "title": "快请老师来",
+    "text": "第7关，快请老师来。发生了什么？你看见有人故意推同学。老师就在旁边的教室里。 请你回答。你要马上请谁来帮忙？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-06-ff805b4cdb34.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 6,
+    "title": "只听问题",
+    "text": "你要马上请谁来帮忙？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-06-bb2d3f3ae9ce.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 6,
+    "title": "参考答案",
+    "text": "参考答案。马上请老师来帮忙。 不围着看，也不冲上去打架。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-06-2fb05e401a8f.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 6,
+    "title": "互动完成",
+    "text": "电源接通了，缆车开始苏醒！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-06-6bdcc6940ddd.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 7,
+    "title": "还可以找人帮忙",
+    "text": "第8关，还可以找人帮忙。发生了什么？你告诉过一位老师，可是还有人欺负你。这件事还没有解决。 请你回答。你还可以找谁帮忙？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-07-cf60648683b2.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 7,
+    "title": "只听问题",
+    "text": "你还可以找谁帮忙？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-07-70101fbb2cd0.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 7,
+    "title": "参考答案",
+    "text": "参考答案。可以找爸爸妈妈，也可以找另一位老师。 还没解决，就继续找大人帮忙。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-07-ee72fe17d2f3.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 7,
+    "title": "互动完成",
+    "text": "电力充满，缆车平安抵达山顶！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-07-ba4f387f68de.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 8,
+    "title": "明天的一件好事",
+    "text": "第9关，明天的一件好事。发生了什么？帮同学捡彩笔，邀请同学一起玩，都是友爱的小事。 请你回答。明天，你想为同学做哪一件好事？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-08-aa9db0c45301.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 8,
+    "title": "只听问题",
+    "text": "明天，你想为同学做哪一件好事？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-08-3bfc212e5d81.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 8,
+    "title": "参考答案",
+    "text": "参考答案。例如：我想帮同学捡彩笔。 也可以说：我想邀请同学一起玩。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-08-f7d359d7c1c9.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 8,
+    "title": "互动完成",
+    "text": "三块地板搭好了，友爱树屋更加稳固！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-08-803c28997f36.mp3"
+  },
+  {
+    "kind": "scene",
+    "index": 9,
+    "title": "点亮友爱星空",
+    "text": "第10关，点亮友爱星空。发生了什么？树屋快建好了。最后，让我们一起记住一句保护自己的话。 请你回答。遇到危险，先离开，再找谁帮忙？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/scene-09-e6072f50121b.mp3"
+  },
+  {
+    "kind": "question",
+    "index": 9,
+    "title": "只听问题",
+    "text": "遇到危险，先离开，再找谁帮忙？ 请大家举手回答。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/question-09-641ccd2e02be.mp3"
+  },
+  {
+    "kind": "answer",
+    "index": 9,
+    "title": "参考答案",
+    "text": "参考答案。找老师、爸爸妈妈等能帮助我们的大人。 一起记住：先离开，再求助！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/answer-09-38958e44ebad.mp3"
+  },
+  {
+    "kind": "done",
+    "index": 9,
+    "title": "互动完成",
+    "text": "屋顶和星灯亮起来，五颗友爱之星闪耀，冒险成功！",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/done-09-b14e0575e1c7.mp3"
+  },
+  {
+    "kind": "chapter",
+    "index": 0,
+    "title": "修好书本谷的木桥",
+    "text": "第1章，修好书本谷的木桥。小梅和科迪来到书本山谷，木桥缺了两段。全班学会关心同学、分辨行为，完成两次任务，收集两块木板，一起修好木桥。 本章两道题。两次任务 ， 两块木板 ， 修桥过河。准备好后，点击进入本章任务。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/chapter-00-58a364416eb2.mp3"
+  },
+  {
+    "kind": "chapter",
+    "index": 1,
+    "title": "拼出积木飞机",
+    "text": "第2章，拼出积木飞机。过了木桥，我们来到积木森林。完成尊重名字、邀请伙伴两次任务，每次获得三个部件，拼出六部件飞机，飞向纽扣森林。 本章两道题。两组部件，每组三个 ， 拼好飞机 ， 起飞。准备好后，点击进入本章任务。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/chapter-01-96d233545761.mp3"
+  },
+  {
+    "kind": "chapter",
+    "index": 2,
+    "title": "守住纽扣森林",
+    "text": "第3章，守住纽扣森林。飞机降落在纽扣森林。全班学会远离危险、不替伤害保密，获得守护盾和星光法杖，守住村庄的安全通道。 本章两道题。守护盾 ， 星光法杖 ， 安全通过森林。准备好后，点击进入本章任务。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/chapter-02-46d29f2925e0.mp3"
+  },
+  {
+    "kind": "chapter",
+    "index": 3,
+    "title": "让缆车重新通电",
+    "text": "第4章，让缆车重新通电。小梅和科迪来到绳桥峡谷，缆车没有电。我们先学会安全地帮助同学，接通电源，再学会继续求助，充满电力，乘缆车上山。 本章两道题。接通电源 ， 充满电力 ， 乘缆车上山。准备好后，点击进入本章任务。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/chapter-03-7897e300ba8d.mp3"
+  },
+  {
+    "kind": "chapter",
+    "index": 4,
+    "title": "建好树屋，一起看星星",
+    "text": "第5章，建好树屋，一起看星星。山顶就在眼前！全班说出明天能做到的友爱约定，搭建树屋，再回顾安全行动，装上屋顶和星灯，点亮五颗友爱之星。 本章两道题。搭建树屋 ， 点亮星空 ， 全班约定。准备好后，点击进入本章任务。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/chapter-04-e1fafda27041.mp3"
+  },
+  {
+    "kind": "pledge",
+    "index": 0,
+    "title": "通关与班级承诺",
+    "text": "树屋建好了，一起看星星！木桥、飞机、守护盾、缆车和树屋，都是全班一起完成的。谢谢每位举手、倾听、回答和帮助伙伴的同学。现在请全班一起读：一年三班，像个大家！团结友爱，不欺负他！遇到危险，离开求助！集体为家，团结向前！让我们把今天的友爱约定，带到明天的教室。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/pledge-00-e124df409074.mp3"
+  },
+  {
+    "kind": "map",
+    "index": 0,
+    "title": "冒险地图",
+    "text": "冒险地图。我们依次经过书本山谷、积木森林、纽扣森林、绳桥峡谷和山顶星空小屋。五章，每章两关。完成当前互动，才能解锁下一步。关闭地图可以回到刚才的页面。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/map-00-f7cf74e01e70.mp3"
+  },
+  {
+    "kind": "pause",
+    "index": 0,
+    "title": "休息一下",
+    "text": "我们先休息一下。现在的进度已经保存，准备好后，点击继续冒险。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/pause-00-250c9430618c.mp3"
+  },
+  {
+    "kind": "reset",
+    "index": 0,
+    "title": "重新开始提示",
+    "text": "确定要重新开始吗？重新开始会清除本版当前进度。不想重来，可以关闭这个窗口继续冒险。",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "file": "outputs/友爱奇旅-10关晓晓配音/reset-00-619edca2a551.mp3"
+  }
+]
