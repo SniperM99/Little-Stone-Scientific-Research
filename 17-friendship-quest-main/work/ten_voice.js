@@ -19,7 +19,7 @@ async function playTenVoice(kind){
  try{await p.play()}catch(err){if(token!==tenToken)return;stopTenVoice();if(err?.name==='NotAllowedError')tenPending={kind,context};else toast('请点击重听播放配音。')}
 }
 async function pauseTenVoice(){if(!tenPlayer)return;if(tenPlayer.paused){try{await tenPlayer.play()}catch{toast('请点击重听播放配音。')}}else tenPlayer.pause();syncTenVoice()}
-function tenKind(){if($('guide')?.open)return null;for(const id of ['reset','guide','map','pause'])if($(id)?.open)return id;if($('mini-dialog').open)return state.build===2?'done':null;return ({intro:'intro',chapter:'chapter',ask:'scene',answer:'question',reveal:'answer',end:'pledge'})[state.phase]}
+function tenKind(){if($('guide')?.open)return null;for(const id of ['reset','guide','map','pause'])if($(id)?.open)return id;if($('mini-dialog').open)return state.build===2?'done':null;return ({intro:'intro',chapter:'chapter',ask:'scene',answer:'question',reveal:'answer',reward:'reward',end:'pledge'})[state.phase]}
 function toggleTenVoice(){tenAuto=!tenAuto;try{localStorage.setItem(TEN_VOICE_PREF,tenAuto?'on':'off')}catch{}stopTenVoice();if(tenAuto)playTenVoice(tenKind());syncTenVoice()}
 function tenControls(){return '<span data-ten-status role="status"></span><button onclick="playTenVoice(tenKind())">重听</button><button data-ten-pause onclick="pauseTenVoice()">暂停</button><button data-ten-stop onclick="stopTenVoice()">停止</button>'}
 function renderTenVoice(){

@@ -19,6 +19,7 @@ def manifest(s):
   add('scene',i,l[1],f'第{i+1}关，{l[1]}。发生了什么？{l[2]} 请你回答。{l[3]} 请大家举手回答。')
   add('question',i,'只听问题',l[3]+' 请大家举手回答。')
   add('answer',i,'参考答案','参考答案。'+' '.join(l[8]))
+  add('reward',i,'回答正确','回答正确！获得'+arr('partNames')[i]+'。')
   add('done',i,'互动完成',messages[i])
  for i,t in enumerate(stories):add('chapter',i,titles[i],f'第{i+1}章，{titles[i]}。{t} 本章两道题。'+goals[i].replace('→','，')+'。准备好后，点击进入本章任务。')
  add('pledge',0,'通关与班级承诺','树屋建好了，一起看星星！木桥、飞机、守护盾、缆车和树屋，都是全班一起完成的。谢谢每位举手、倾听、回答和帮助伙伴的同学。现在请全班一起读：一年三班，像个大家！团结友爱，不欺负他！遇到危险，离开求助！集体为家，团结向前！让我们把今天的友爱约定，带到明天的教室。')
